@@ -1,0 +1,9 @@
+ts_conf.py
+logs/
+backup/
+__pycache__/
+data/
+.idea
+*.idea
+
+
